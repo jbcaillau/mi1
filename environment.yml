@@ -1,0 +1,8 @@
+name: mi2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy             = 1.16.*
+  - scipy             = 1.2.*
+  - matplotlib        = 3.1.*

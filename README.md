@@ -14,4 +14,6 @@
 [TD 2 - Intégrales multiples](td2/td2.pdf)
 [(corrigé)](td2/td2-corr.pdf)
 
+[TD 3 - Mesures](td3/td3.pdf)
+
 [Exam CC 1 (2019-20)](exam-cc1-old/exam-cc1.pdf)

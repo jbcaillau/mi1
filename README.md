@@ -3,7 +3,7 @@
 # Mathématiques de l'ingénieur 1
 # 2020-2021
 
-[FAQ](https://codimd.math.cnrs.fr/s/xhGCnwlrV)
+[Blog](https://caillau.blog/2020/10/03/mi1)
 
 [Plan du cours](cm/cm.pdf)
 [(Révisions)](cm/rev.pdf)

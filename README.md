@@ -15,5 +15,6 @@
 [(corrigé)](td2/td2-corr.pdf)
 
 [TD 3 - Mesures](td3/td3.pdf)
+[(corrigé)](td3/td3-corr.pdf)
 
 [Exam CC 1 (2019-20)](exam-cc1-old/exam-cc1.pdf)

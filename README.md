@@ -3,7 +3,7 @@
 # Mathématiques de l'ingénieur 1
 # 2020-2021
 
-[Blog](https://caillau.blog/2020/10/03/mi1)
+[FAQ](https://codimd.math.cnrs.fr/DjgIOgFxSPifPFowl2tlHg)
 
 [Plan du cours](cm/cm.pdf)
 [(Révisions)](cm/rev.pdf)
@@ -18,3 +18,7 @@
 [(corrigé)](td3/td3-corr.pdf)
 
 [Exam CC 1 (2019-20)](exam-cc1-old/exam-cc1.pdf)
+
+And some $x_2$ display
+$$ \int_0^T f(t) $$
+to try.

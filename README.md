@@ -18,7 +18,3 @@
 [(corrigé)](td3/td3-corr.pdf)
 
 [Exam CC 1 (2019-20)](exam-cc1-old/exam-cc1.pdf)
-
-And some $x_2$ display
-$$ \int_0^T f(t) $$
-to try.

@@ -1,6 +1,6 @@
 ![PNS](logo-pns.png)
 ## MAM3 - MI1
-# Mathématiques de l'ingénieur 1
+# Mathématiques de l'ingénieur 1 
 # 2020-2021
 
 [FAQ](https://codimd.math.cnrs.fr/DjgIOgFxSPifPFowl2tlHg)

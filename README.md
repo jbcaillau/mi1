@@ -7,9 +7,9 @@
 
 [Plan du cours](cm/cm.pdf)
     
-[Chapitre 1 - Révisions](ch1/ch1.pdf)
+[Révisions](ch1/ch1.pdf)
     
-[Chapitre 2 - Espaces Lp](ch2/ch2.pdf)
+[Espaces Lp](ch2/ch2.pdf)
 
 [TD 1 - Révisions](td1/td1.pdf)
 [(corrigé)](td1/td1-corr.pdf)

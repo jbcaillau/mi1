@@ -21,5 +21,6 @@
 [(corrigé)](td3/td3-corr.pdf)
 
 [TD 4 - Convergence](td4/td4.pdf)
+[(corrigé)](td4/td4-corr.pdf)
 
 [Exam CC 1 (2019-20)](exam-cc1-old/exam-cc1.pdf)
